@@ -1,0 +1,8 @@
+master_channel: blueset.telegram
+slave_channels:
+- blueset.wechat
+#- bar.dummy
+#- bar.dummy#alt
+#middlewares:
+#- foo.msg_archiver
+#- foo.null
